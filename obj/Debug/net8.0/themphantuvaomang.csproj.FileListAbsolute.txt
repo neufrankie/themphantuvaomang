@@ -1,0 +1,14 @@
+E:\Codegym\c# start\themphantuvaomang\bin\Debug\net8.0\themphantuvaomang.exe
+E:\Codegym\c# start\themphantuvaomang\bin\Debug\net8.0\themphantuvaomang.deps.json
+E:\Codegym\c# start\themphantuvaomang\bin\Debug\net8.0\themphantuvaomang.runtimeconfig.json
+E:\Codegym\c# start\themphantuvaomang\bin\Debug\net8.0\themphantuvaomang.dll
+E:\Codegym\c# start\themphantuvaomang\bin\Debug\net8.0\themphantuvaomang.pdb
+E:\Codegym\c# start\themphantuvaomang\obj\Debug\net8.0\themphantuvaomang.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codegym\c# start\themphantuvaomang\obj\Debug\net8.0\themphantuvaomang.AssemblyInfoInputs.cache
+E:\Codegym\c# start\themphantuvaomang\obj\Debug\net8.0\themphantuvaomang.AssemblyInfo.cs
+E:\Codegym\c# start\themphantuvaomang\obj\Debug\net8.0\themphantuvaomang.csproj.CoreCompileInputs.cache
+E:\Codegym\c# start\themphantuvaomang\obj\Debug\net8.0\themphantuvaomang.dll
+E:\Codegym\c# start\themphantuvaomang\obj\Debug\net8.0\refint\themphantuvaomang.dll
+E:\Codegym\c# start\themphantuvaomang\obj\Debug\net8.0\themphantuvaomang.pdb
+E:\Codegym\c# start\themphantuvaomang\obj\Debug\net8.0\themphantuvaomang.genruntimeconfig.cache
+E:\Codegym\c# start\themphantuvaomang\obj\Debug\net8.0\ref\themphantuvaomang.dll
